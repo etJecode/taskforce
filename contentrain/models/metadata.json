@@ -1,0 +1,10 @@
+[
+  {
+    "name": "test",
+    "description": "sdasd",
+    "modelId": "test",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  }
+]
